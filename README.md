@@ -6,7 +6,7 @@ IP networking
 
 I used internet protocol (IP) to establish connections from Network A and Network 3. At first, the network was divided into subnet 1, subnet 2, and Network 3. I began by combining subnets 1 and 2 into Network A provided with the IP 192.168.1.101 following every PC. I changed the IP address of network 3 to begin with 192.168.10.1 and so on because I added a router to separate this network. 
 
-A> Subnet masks 
+A. Subnet masks 
 
 I used subnet masks by separating network A and network 3 using an existing switch and a new network router for network 3. Subnet masks are used to separate traffic within a larger network. I combined the existing subnets 1 and 2 into one subnet to improve network traffic and security.  
 
